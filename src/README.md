@@ -5,6 +5,12 @@ This repository is a project about Purrfect Paws, a cat website
 
 ## Purrfect Paws
 
+Getting Started
+To get started with Purrfect Paws, follow these steps:
+
+Clone the repository to your local machine.
+Open the index.html file in your preferred web browser.
+
 Usage
 Searching for Cat Breeds: Enter the name of a cat breed in the search box and click "Search" to view information and images related to that breed.
 Generating Cat Facts: Click the "Cat Fact" button to generate a random cat fact.
